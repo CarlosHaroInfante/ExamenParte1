@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+.parte1{
+	background-color:  yellow;
+	border-style: solid;
+	border-color: blue;
+}
+
+.parte2{
+	background-color: yellow;
+	
+}
+
+.button2{
+	background-color: lightblue;
+	border-style: solid;
+	border-color: black;
+	margin-left: 25%;
+	margin-right: 25px;
+	text-align: center;
+}
+
+.titulo{
+ 	text-align: center;
+ 	border-bottom: solid;
+}
+.fondo{
+	background-color: antiquewhite;
+}
+.conte{
+	background-color: lightgrey;
+	border-style: solid;
+	border-color: black;
+	margin-left: 5px;
+	padding-left: 5px;
+	
+}
+.conte2{
+	background-color: antiquewhite;
+	border-style: solid;
+	border-color: black;
+	margin-left: 5px;
+	padding-left: 5px;
+}
+.conte3{
+	background-color: coral;
+	border-style: solid;
+	border-color: black;
+	margin-left: 5px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	
+	
+}
+footer{
+	background-color: gray;
+}
